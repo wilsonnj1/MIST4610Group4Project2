@@ -30,7 +30,7 @@ This chart illustrates the relationship between primary energy imports and total
 
 Which energy sources are the most or least predictable for future US energy consumption/production?
 
-
+<img width="986" height="522" alt="image" src="https://github.com/user-attachments/assets/40c95a3b-66dd-4eed-bbb5-78d46f45f1a5" />
 
 This chart shows the trends of energy production over time. Based on MAPE (Mean Absolute Percentage Error) as well as analysis of month-to-month trends, fossil fuels production would be the most predictable with nuclear and renewables as moderately predictable. Forecasts show a slight decline in nuclear electric production and a steady rise in renewable energy production, though both sources remain broadly stable over time. Fossil fuels production maintains a strong upwards trend and will likely continue to increase. 
 
