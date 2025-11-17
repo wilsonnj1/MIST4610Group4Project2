@@ -22,7 +22,8 @@ We also converted the original month-year field from a text format into a proper
 We also added meaningful names to the columns that originally had no labels. This helped make the dataset easier to understand, organize, and use effectively during analysis and visualization.
 
 Analysis and Results:
-
+<img width="972" height="615" alt="image" src="https://github.com/user-attachments/assets/46a72c77-32c4-4933-9fd4-453dcfdc02ad" />
 This chart illustrates the relationship between primary energy imports and total renewable energy production within the United States. The fitted logarithmic trendline shows a slight positive association, indicating that as U.S. primary energy imports increase, renewable energy production tends to rise modestly. However, as shown by an R-squared value of only about 0.105, this relationship is weak. This means that imports explain only about 11% of the variation in renewable energy output. This could indicate that producing more renewable energy does not necessarily reduce the need for primary energy, or it may simply reflect that both imports and renewable production rise in response to higher overall energy demand. Although the p-value is highly significant which suggests the trend is statistically real, the wide dispersion of data points indicates that renewable energy production is influenced far more by other factors, like policy decisions, technological advances, resource availability, and general financial investment. Overall, as renewable energy production increases, primary energy imports tend to increase slightly, but this relationship is weak and accounts for only about 11% of the variation in imports.
+
 <img width="972" height="640" alt="image" src="https://github.com/user-attachments/assets/2150627f-6145-417b-889a-81d0fc397637" />
 
