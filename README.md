@@ -24,6 +24,17 @@ We also added meaningful names to the columns that originally had no labels. Thi
 Analysis and Results:
 <img width="972" height="615" alt="image" src="https://github.com/user-attachments/assets/46a72c77-32c4-4933-9fd4-453dcfdc02ad" />
 This chart illustrates the relationship between primary energy imports and total renewable energy production within the United States. The fitted logarithmic trendline shows a slight positive association, indicating that as U.S. primary energy imports increase, renewable energy production tends to rise modestly. However, as shown by an R-squared value of only about 0.105, this relationship is weak. This means that imports explain only about 11% of the variation in renewable energy output. This could indicate that producing more renewable energy does not necessarily reduce the need for primary energy, or it may simply reflect that both imports and renewable production rise in response to higher overall energy demand. Although the p-value is highly significant which suggests the trend is statistically real, the wide dispersion of data points indicates that renewable energy production is influenced far more by other factors, like policy decisions, technological advances, resource availability, and general financial investment. Overall, as renewable energy production increases, primary energy imports tend to increase slightly, but this relationship is weak and accounts for only about 11% of the variation in imports.
+<img width="972" height="640" alt="image" src="https://github.com/user-attachments/assets/ddd87462-eb66-497b-9415-6462dcd3aa52" />
 
 <img width="972" height="640" alt="image" src="https://github.com/user-attachments/assets/2150627f-6145-417b-889a-81d0fc397637" />
+
+Which energy sources are the most or least predictable for future US energy consumption/production?
+
+
+
+This chart shows the trends of energy production over time. Based on MAPE (Mean Absolute Percentage Error) as well as analysis of month-to-month trends, fossil fuels production would be the most predictable with nuclear and renewables as moderately predictable. Forecasts show a slight decline in nuclear electric production and a steady rise in renewable energy production, though both sources remain broadly stable over time. Fossil fuels production maintains a strong upwards trend and will likely continue to increase. 
+
+
+This chart shows long-term trends in US energy production and evaluates how predictable each energy source is based on historical volatility, month-to-month stability, and Mean Absolute Percentage Error (MAPE). The analysis indicates that fossil fuels are the most predictable energy source, as their production follows a consistent upward trajectory with relatively low short-term fluctuation. Nuclear and renewable energy production are moderately predictable: nuclear output remains broadly stable but shows a slight long-term decline, while renewables display steady growth with more month-to-month variability due to factors such as technology deployment cycles, policy changes, and weather-related influences. Overall, fossil fuels maintain the strongest upward trend and the highest forecast reliability, whereas nuclear and renewables exhibit more moderate but still meaningful levels of predictability over time.
+
 
