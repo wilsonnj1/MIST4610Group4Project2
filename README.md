@@ -25,10 +25,6 @@ To what extent does the amount of total renewable energy produced by the United 
 
 This chart illustrates the relationship between primary energy imports and total renewable energy production within the United States. The fitted logarithmic trendline shows a slight positive association, indicating that as U.S. primary energy imports increase, renewable energy production tends to rise modestly. However, as shown by an R-squared value of only about 0.105, this relationship is weak. This means that imports explain only about 11% of the variation in renewable energy output. This could indicate that producing more renewable energy does not necessarily reduce the need for primary energy, or it may simply reflect that both imports and renewable production rise in response to higher overall energy demand. Although the p-value is highly significant which suggests the trend is statistically real, the wide dispersion of data points indicates that renewable energy production is influenced far more by other factors, like policy decisions, technological advances, resource availability, and general financial investment. Overall, as renewable energy production increases, primary energy imports tend to increase slightly, but this relationship is weak and accounts for only about 11% of the variation in imports.
 
-<img width="972" height="567" alt="image" src="https://github.com/user-attachments/assets/d5c19817-002e-4d24-8feb-81dd73813dad" />
-
-<img width="972" height="640" alt="image" src="https://github.com/user-attachments/assets/2150627f-6145-417b-889a-81d0fc397637" />
-
 Which energy sources are the most or least predictable for future US energy consumption/production?
 
 <img width="986" height="522" alt="image" src="https://github.com/user-attachments/assets/40c95a3b-66dd-4eed-bbb5-78d46f45f1a5" />
